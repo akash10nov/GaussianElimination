@@ -1,0 +1,12 @@
+Matrix_Multiplication_CUDA_1_1T.cu(57): warning: variable "diff_allowed" was declared but never referenced
+
+Matrix_Multiplication_CUDA_1_1T.cu(60): warning: variable "temp" was declared but never referenced
+
+Matrix_Multiplication_CUDA_1_1T.cu(61): warning: variable "x" was declared but never referenced
+
+Matrix_Multiplication_CUDA_1_1T.cu(57): warning: variable "diff_allowed" was declared but never referenced
+
+Matrix_Multiplication_CUDA_1_1T.cu(60): warning: variable "temp" was declared but never referenced
+
+Matrix_Multiplication_CUDA_1_1T.cu(61): warning: variable "x" was declared but never referenced
+

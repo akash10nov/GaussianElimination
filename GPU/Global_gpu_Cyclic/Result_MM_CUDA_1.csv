@@ -1,0 +1,23 @@
+SLURM Environment Variables:
+Job ID = 3609268
+Job Name = MM_CUDA_1
+Job Node List = k05n12s01
+Number of Nodes = 1
+Tasks per node = 1
+CPUs per task = 
+/scratch/jobid = /scratch/3609268
+Submit Host = k07n14
+Submit Directory = /gpfs/user/akashpra/MPI/Class/Global_gpu_Cyclic
+
+
+10, 0.000138 
+100, 0.000295 
+200, 0.001011 
+500, 0.009969 
+700, 0.030595 
+1000, 0.075664 
+2000, 0.369502 
+5000, 5.640680 
+7000, 20.091669 
+10000, 0.398143 
+All Done!
